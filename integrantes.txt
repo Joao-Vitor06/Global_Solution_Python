@@ -1,7 +1,0 @@
-### `integrantes.txt`
-```text
-Bruno Otávio da Cruz Carvalho – RM: 562354
-João Ivo Campolina Silveira – RM: 562287
-João Vitor Santana Silva Ribeir – RM: 564693
-
-Link do repositório: https://github.com/usuario/future_skills_lab
